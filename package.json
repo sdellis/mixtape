@@ -1,0 +1,15 @@
+{
+  "name": "mixtape",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "vue-svg-loader": "^0.16.0"
+  }
+}
