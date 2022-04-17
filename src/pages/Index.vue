@@ -12,7 +12,7 @@
     			<p class="artist">{{ item.artist }}</p>
     		</div>
 
-    			<p class="debugToggle" v-on:click="toggleDebug()">debug: {{ debug }}</p>
+    			<!-- <p class="debugToggle" v-on:click="toggleDebug()">debug: {{ debug }}</p> -->
 
     	</div>
     	<div class="audioPlayerUI" :class="{'isDisabled': isPlaylistActive}">
