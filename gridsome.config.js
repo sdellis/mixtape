@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'Those Looks - Cults Near Me (Preview)',
   plugins: [],
   chainWebpack: config => {
     const svgRule = config.module.rule('svg')

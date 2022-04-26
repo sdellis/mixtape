@@ -164,7 +164,8 @@ export default {
 		playAudio: function() {
 			if (
 				this.currentlyStopped == true &&
-				this.currentSong + 1 == this.musicPlaylist.length
+				// this.currentSong + 1 == this.musicPlaylist.length
+        this.currentSong + 1 > this.musicPlaylist.length
 			) {
 				this.currentSong = 0;
 				this.changeSong();
