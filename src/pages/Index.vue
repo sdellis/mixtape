@@ -99,15 +99,9 @@ export default {
   				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
   			},
   			{
-  				title: "Vertigo",
+  				title: "Chelsea",
   				artist: "Those Looks",
-  				url: "/mp3s/Vertigo.mp3",
-  				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
-  			},
-  			{
-  				title: "You Know Where",
-  				artist: "Those Looks",
-  				url: "/mp3s/YouKnowWhere.mp3",
+  				url: "/mp3s/Chelsea.mp3",
   				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
   			}
   		],
