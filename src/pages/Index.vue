@@ -103,6 +103,12 @@ export default {
   				artist: "Those Looks",
   				url: "/mp3s/Chelsea.mp3",
   				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
+  			},
+  			{
+  				title: "You Know Where",
+  				artist: "Those Looks",
+  				url: "/mp3s/YouKnowWhere.mp3",
+  				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
   			}
   		],
   		audioFile: ""
