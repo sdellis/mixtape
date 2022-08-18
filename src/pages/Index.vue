@@ -109,6 +109,12 @@ export default {
   				artist: "Those Looks",
   				url: "/mp3s/YouKnowWhere.mp3",
   				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
+  			},
+  			{
+  				title: "I'm Fine",
+  				artist: "Those Looks",
+  				url: "/mp3s/Im_Fine.mp3",
+  				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
   			}
   		],
   		audioFile: ""
