@@ -64,7 +64,7 @@ import Forward from '~/icons/Forward.svg'
 import Back from '~/icons/Back.svg'
 export default {
   metaInfo: {
-    title: 'Those Looks - Cults Near Me (Preview)'
+    title: 'Those Looks - Laundry and Taxes (Preview the Weathervane Open Session)'
   },
   components: {
       Play,
@@ -87,35 +87,11 @@ export default {
   		debug: false,
   		musicPlaylist: [
   			{
-  				title: "Hymnal",
-  				artist: "Those Looks",
-  				url: "/mp3s/Hymnal.mp3",
-  				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
+  				title: "Laundry and Taxes",
+  				artist: "Those Looks (Weathervane Music Open Session)",
+  				url: "/mp3s/laundryandtaxes.mp3",
+  				image: "/images/laundryandtaxes.jpg"
   			},
-  			{
-  				title: "Tonight",
-  				artist: "Those Looks",
-  				url: "/mp3s/Tonight.mp3",
-  				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
-  			},
-  			{
-  				title: "Chelsea",
-  				artist: "Those Looks",
-  				url: "/mp3s/Chelsea.mp3",
-  				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
-  			},
-  			{
-  				title: "You Know Where",
-  				artist: "Those Looks",
-  				url: "/mp3s/YouKnowWhere.mp3",
-  				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
-  			},
-  			{
-  				title: "I'm Fine",
-  				artist: "Those Looks",
-  				url: "/mp3s/Im_Fine.mp3",
-  				image: "/images/CULTS-NEAR-ME-ALBUM-ART.jpg"
-  			}
   		],
   		audioFile: ""
     }
@@ -473,7 +449,7 @@ export default {
 }
 /* pen specific formatting */
 body {
-  background: #29b6f6;
+  background: #aa8f14;
   color: rgba(255, 255, 255, 0.7);
   font-family: Raleway, sans-serif;
   padding: 3rem;
