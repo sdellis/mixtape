@@ -89,7 +89,7 @@ export default {
   			{
   				title: "Laundry and Taxes",
   				artist: "Those Looks (Weathervane Music Open Session)",
-  				url: "/mp3s/laundryandtaxes.mp3",
+  				url: "/mp3s/laundryandtaxes_mastered.mp3",
   				image: "/images/laundryandtaxes.jpg"
   			},
   		],
